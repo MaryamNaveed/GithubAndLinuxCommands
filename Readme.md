@@ -122,4 +122,96 @@ git log
 In conclusion, these are 10 essential GitHub commands that every developer should know. By mastering these commands, you will be able to efficiently manage your code and collaborate with other developers on GitHub.
 
 ## Linux Commands
+Linux is a popular open-source operating system used by developers and system administrators around the world. It provides a rich set of tools and commands that allow you to perform various tasks on the system. Now we’ll be discussing 10 essential Linux commands that every beginner should know.
 
+### 1. pwd
+The pwd command is used to print the current working directory. This command displays the full path of the current directory.
+
+The pwd command uses the following syntax:
+```
+pwd [option]
+```
+![](./ScreenShots/pwd.png)
+
+### 2. mkdir
+The mkdir command is used to create a new directory. This command creates a new directory with the specified name.
+
+The mkdir command uses the following syntax:
+```
+mkdir [option] directory_name
+```
+![](./ScreenShots/mkdir.png)
+
+### 3. touch
+The touch command is used to create a new empty file. This command creates a new file with the specified name, or updates the modification time of an existing file.
+
+The touch command uses the following syntax:
+```
+touch [option] filename
+```
+![](./ScreenShots/touch.png)
+
+### 4. cp
+The cp command is used to copy files and directories. This command allows you to make a copy of a file or directory and place it in a different location.
+
+The cp command uses the following syntax:
+```
+cp [options] source destination
+```
+![](./ScreenShots/cp.png)
+
+### 5. mv
+The mv command is used to move or rename files and directories. This command allows you to move files and directories from one location to another, or to rename an existing file or directory.
+
+The mv command uses the following syntax:
+```
+mv [options] source destination
+```
+![](./ScreenShots/mv.png)
+
+### 6. cat
+The cat command is used to display the contents of a file. This command prints the contents of the specified file to the terminal.
+
+The cat command uses the following syntax:
+```
+cat [options] [file(s)]
+```
+![](./ScreenShots/cat.png)
+
+### 7. grep
+The grep command is used to search for text in a file. This command allows you to search for a specific string or pattern in a file, and display the lines that contain that text.
+
+The grep command uses the following syntax:
+```
+grep [options] pattern [file(s)]
+```
+![](./ScreenShots/grep.png)
+
+### 8. find
+The find command is used to search for files and directories. This command allows you to search for files and directories based on various criteria, such as name, size, or modification time.
+
+The find command uses the following syntax:
+```
+find path expression
+```
+![](./ScreenShots/find.png)
+
+### 9. chmod
+The chmod command is used to change file permissions. This command allows you to control who can read, write, and execute files on the system.
+
+The chmod command uses the following syntax:
+```
+chmod option modes file(s)
+```
+![](./ScreenShots/chmod.png)
+
+### 9. man
+The man command is used to view the manual pages for a command. This command displays the manual pages for a specified command, providing detailed information about how to use the command and its options.
+
+The man command uses the following syntax:
+```
+man [command]
+```
+![](./ScreenShots/man.png)
+
+In conclusion, these are 10 essential Linux commands that every beginner should know. By mastering these commands, you will be able to perform basic tasks on a Linux system and start to become comfortable with the Linux command line interface.
