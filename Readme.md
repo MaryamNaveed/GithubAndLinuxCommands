@@ -1,5 +1,5 @@
 # Some Important Github and Linux Commands 
-We will be discussing some essential GitHub commands and Linuc Commands that every developer should know.
+We will be discussing some essential GitHub commands and Linux Commands that every developer should know.
 
 ## Github Commands
 GitHub is one of the largest code hosting platforms and is used by millions of developers across the world. It is a platform that is used for version control and collaboration in software development. With GitHub, developers can store and manage their code, track changes, and collaborate with other developers. 10 essential GitHub commands that every developer should know are: 
